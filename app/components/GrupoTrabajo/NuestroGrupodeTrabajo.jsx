@@ -208,7 +208,7 @@ export const NuestroGrupodeTrabajo = () => {
   return (
     <section id="misProyectos" className="u-center">
       <div className="w-full flex flex-col justify-center pt-4 items-center border-t-2 border-[var(--bg-hover)]">
-        <h1 className="text-4xl font-bold">Nuestro grupo de trabajo</h1>
+        <h1 className="text-4xl font-bold">Nuestro grupop de trabajo</h1>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-3 bg">
           {teamWork.map((project, index) => (
             <div
